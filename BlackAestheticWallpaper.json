@@ -3,7 +3,7 @@
  
 "json_popup_wait" : "Loading server...",
   
-"mode_no_ads" : false,
+"mode_no_ads" : true,
 "mode_tes_iklan_fan_admob_startapp_appdodeal" : true,
 
 // Mode Iklan
@@ -25,7 +25,7 @@
 "enable_strap" : true,
 "enable_strap_Splah" : true,
 
-"ads_on_exit_dialog" : true,
+"ads_on_exit_dialog" : false,
 
 "mode_offline_mp3" : false,
 "enable_sticky_notification" : true,
