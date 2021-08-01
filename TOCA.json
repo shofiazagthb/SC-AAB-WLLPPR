@@ -3,7 +3,7 @@
  
 "json_popup_wait" : "Loading Apps...",
   
-"mode_no_ads" : true,
+"mode_no_ads" : false,
 "mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
 
 // Mode Iklan
@@ -20,28 +20,28 @@
 "pengaturan_iklan_inter" : "ADMOB",
 "pengaturan_iklan_native" : "ADMOB",
 
-"inter_count" : 2,
+"inter_count" : 7,
 
 "enable_strap" : true,
 "enable_strap_Splah" : true,
 
-"ads_on_exit_dialog" : true,
+"ads_on_exit_dialog" : false,
 
 "mode_offline_mp3" : false,
 "enable_sticky_notification" : true,
 
 "startapp" : "YOUR_APP_ID",
 
-"admob_banner" : "ca-app-pub-3940256099942544/6300978111",
-"admob_inter" : "ca-app-pub-3940256099942544/1033173712",
-"admob_native" : "ca-app-pub-3940256099942544/2247696110",
+"admob_banner" : "ca-app-pub-9610807312861673/7369970668",
+"admob_inter" : "ca-app-pub-9610807312861673/7003139150",
+"admob_native" : "ca-app-pub-9610807312861673/5205189365",
 
-"hpk_alien" : "kuota data 30gb",
-"hpkadmob1" : "Kuota Data",
-"hpkadmob2" : "Bank Jenius",
-"hpkadmob3" : "Simpati",
-"hpkadmob4" : "Telkomsel",
-"hpkadmob5" : "Donasi",
+"hpk_alien" : "toca life world",
+"hpkadmob1" : "cute wallpapers",
+"hpkadmob2" : "kawaii wallpaper",
+"hpkadmob3" : "miga town",
+"hpkadmob4" : "unicorn wallpaper",
+"hpkadmob5" : "toca boca",
 
 "fan_banner" : "YOUR_PLACEMENT_ID",
 "fan_inter" : "YOUR_PLACEMENT_ID",
@@ -51,7 +51,7 @@
 
 "unity_banner_id" : "banner",
 "unity_inters_id" : "interstitial",
-"unity_id" : 4045251,
+"unity_id" : 000000,
 "unity_test" : true,
 
 "applovin_banner_id" : "YOUR_AD_UNIT_ID",
