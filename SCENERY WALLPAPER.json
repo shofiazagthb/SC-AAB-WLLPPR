@@ -57,15 +57,15 @@
 "applovin_banner_id" : "YOUR_AD_UNIT_ID",
 "applovin_inters_id" : "YOUR_AD_UNIT_ID",
 
-"Button_Rating" : "Rating Sekarang",
-"Button_Share" : "Bagikan Ke Teman",
-"Button_Start" : "Mulai",
+"Button_Rating" : "RATE US",
+"Button_Share" : "SHARE",
+"Button_Start" : "START",
 
-"exit_popup_dialog" : "Agar Kami lebih semangat mengembangkan Aplikasi ini \n\n Bantu kami dengan rating bingtang 5 ya :)",
-"rate_button" : "Rating 5 Bintang",
-"later_button" : "Rating Nanti",
+"exit_popup_dialog" : "If you love this apps, Support Us on Google Playstore. Thanks :)",
+"rate_button" : "Rate 5 Stars",
+"later_button" : "Rate Later",
 "enable_Share_button" : true,
-"Share_TXT" : "Aplikasi Keren banget, aku udah nyobain, coba download juga pasti kamu juga seneng ",
+"Share_TXT" : "Cool Apps, lets try it now xoxo",
 "more_button" : "Share Via WhatsApp",
 "url_more_apps" : "https:// jika share button TRUE maka tombol MORE berubah SHARE "
 
