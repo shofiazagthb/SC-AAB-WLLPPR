@@ -20,7 +20,7 @@
 "pengaturan_iklan_inter" : "ADMOB",
 "pengaturan_iklan_native" : "ADMOB",
 
-"inter_count" : 5,
+"inter_count" : 9,
 
 "enable_strap" : true,
 "enable_strap_Splah" : true,
@@ -40,8 +40,8 @@
 "hpkadmob1" : "disney plus",
 "hpkadmob2" : "luca disney plus",
 "hpkadmob3" : "luca disney+",
-"hpkadmob4" : "frozen",
-"hpkadmob5" : "cruella",
+"hpkadmob4" : "",
+"hpkadmob5" : "",
 
 "fan_banner" : "YOUR_PLACEMENT_ID",
 "fan_inter" : "YOUR_PLACEMENT_ID",
