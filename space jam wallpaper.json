@@ -3,7 +3,7 @@
  
 "json_popup_wait" : "Loading Apps...",
   
-"mode_no_ads" : true,
+"mode_no_ads" : false,
 "mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
 
 // Mode Iklan
@@ -16,9 +16,9 @@
 //  Mode APPLOVIN    Applovin  backup Unity Backup Startapp
 //  Iklan native hanya bisa admob fan appodel
 
-"pengaturan_iklan_banner" : "ADMOB",
-"pengaturan_iklan_inter" : "ADMOB",
-"pengaturan_iklan_native" : "ADMOB",
+"pengaturan_iklan_banner" : "FAN",
+"pengaturan_iklan_inter" : "FAN",
+"pengaturan_iklan_native" : "FAN",
 
 "inter_count" : 5,
 
@@ -36,23 +36,23 @@
 "admob_inter" : "ca-app-pub-9610807312861673/6907608683",
 "admob_native" : "ca-app-pub-9610807312861673/4281445344",
 
-"hpk_alien" : "space jam",
+"hpk_alien" : "space jam, looney tunes space jam, space jam lebron james",
 "hpkadmob1" : "space jam 2",
 "hpkadmob2" : "space jam",
 "hpkadmob3" : "space jam 2",
 "hpkadmob4" : "space jam new legacy",
 "hpkadmob5" : "space jam lebron james",
 
-"fan_banner" : "YOUR_PLACEMENT_ID",
-"fan_inter" : "YOUR_PLACEMENT_ID",
-"fan_native" : "YOUR_PLACEMENT_ID",
+"fan_banner" : "871331817101888_871339857101084",
+"fan_inter" : "871331817101888_871620700406333",
+"fan_native" : "871331817101888_871620230406380",
 
 "appodeal_app_id" : "YOUR_APPODEAL_APP_KEY",
 
 "unity_banner_id" : "banner",
 "unity_inters_id" : "interstitial",
 "unity_id" : 0000000,
-"unity_test" : true,
+"unity_test" : false,
 
 "applovin_banner_id" : "YOUR_AD_UNIT_ID",
 "applovin_inters_id" : "YOUR_AD_UNIT_ID",
