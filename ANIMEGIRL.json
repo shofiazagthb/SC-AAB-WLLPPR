@@ -3,7 +3,7 @@
  
 "json_popup_wait" : "Loading Apps...",
   
-"mode_no_ads" : true,
+"mode_no_ads" : false,
 "mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
 
 // Mode Iklan
@@ -17,8 +17,8 @@
 //  Iklan native hanya bisa admob fan appodel
 
 "pengaturan_iklan_banner" : "ADMOB",
-"pengaturan_iklan_inter" : "ADMOB",
-"pengaturan_iklan_native" : "ADMOB",
+"pengaturan_iklan_inter" : "",
+"pengaturan_iklan_native" : "",
 
 "inter_count" : 7,
 
@@ -33,8 +33,8 @@
 "startapp" : "YOUR_APP_ID",
 
 "admob_banner" : "ca-app-pub-9610807312861673/5734483035",
-"admob_inter" : "ca-app-pub-9610807312861673/6272511410",
-"admob_native" : "ca-app-pub-9610807312861673/4959429743",
+"admob_inter" : "", //ca-app-pub-9610807312861673/6272511410
+"admob_native" : "", //ca-app-pub-9610807312861673/4959429743
 
 "hpk_alien" : "anime",
 "hpkadmob1" : "sakura school simulator",
