@@ -3,7 +3,7 @@
  
 "json_popup_wait" : "Loading Apps...",
   
-"mode_no_ads" : true,
+"mode_no_ads" : false,
 "mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
 
 // Mode Iklan
@@ -43,9 +43,9 @@
 "hpkadmob4" : "south park", //south park
 "hpkadmob5" : "luca disney", //luca disney
 
-"fan_banner" : "871331817101888_871339857101084",
-"fan_inter" : "871331817101888_871620700406333",
-"fan_native" : "871331817101888_871620230406380",
+"fan_banner" : "6189510301120662_6189527057785653",
+"fan_inter" : "6189510301120662_6191848304220195",
+"fan_native" : "6189510301120662_6191834924221533",
 
 "appodeal_app_id" : "YOUR_APPODEAL_APP_KEY",
 
