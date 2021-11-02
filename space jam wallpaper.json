@@ -16,16 +16,16 @@
 //  Mode APPLOVIN    Applovin  backup Unity Backup Startapp
 //  Iklan native hanya bisa admob fan appodel
 
-"pengaturan_iklan_banner" : "ADMOB",
-"pengaturan_iklan_inter" : "ADMOB",
-"pengaturan_iklan_native" : "ADMOB",
+"pengaturan_iklan_banner" : "FAN",
+"pengaturan_iklan_inter" : "FAN",
+"pengaturan_iklan_native" : "FAN",
 
 "inter_count" : 5,
 
-"enable_strap" : true,
+"enable_strap" : false,
 "enable_strap_Splah" : false,
 
-"ads_on_exit_dialog" : true,
+"ads_on_exit_dialog" : false,
 
 "mode_offline_mp3" : false,
 "enable_sticky_notification" : true,
@@ -43,15 +43,15 @@
 "hpkadmob4" : "space jam new legacy",
 "hpkadmob5" : "space jam lebron james",
 
-"fan_banner" : "", //871331817101888_871339857101084
-"fan_inter" : "", //871331817101888_871620700406333
-"fan_native" : "", //871331817101888_871620230406380
+"fan_banner" : "871331817101888_871339857101084",
+"fan_inter" : "871331817101888_871620700406333",
+"fan_native" : "871331817101888_871620230406380",
 
 "appodeal_app_id" : "YOUR_APPODEAL_APP_KEY",
 
 "unity_banner_id" : "Banner_Android",
 "unity_inters_id" : "Interstitial_Android",
-"unity_id" : 4281433,
+"unity_id" : 0000000, //4281433
 "unity_test" : false,
 
 "applovin_banner_id" : "YOUR_AD_UNIT_ID",
