@@ -3,7 +3,7 @@
  
 "json_popup_wait" : "Loading Apps...",
   
-"mode_no_ads" : true,
+"mode_no_ads" : false,
 "mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
 
 // Mode Iklan
@@ -16,16 +16,16 @@
 //  Mode APPLOVIN    Applovin  backup Unity Backup Startapp
 //  Iklan native hanya bisa admob fan appodel
 
-"pengaturan_iklan_banner" : "ADMOB",
-"pengaturan_iklan_inter" : "",
-"pengaturan_iklan_native" : "",
+"pengaturan_iklan_banner" : "UNITY",
+"pengaturan_iklan_inter" : "UNITY",
+"pengaturan_iklan_native" : "UNITY",
 
-"inter_count" : 7,
+"inter_count" : 3,
 
-"enable_strap" : false,
+"enable_strap" : true,
 "enable_strap_Splah" : false,
 
-"ads_on_exit_dialog" : false,
+"ads_on_exit_dialog" : true,
 
 "mode_offline_mp3" : false,
 "enable_sticky_notification" : true,
@@ -49,9 +49,9 @@
 
 "appodeal_app_id" : "YOUR_APPODEAL_APP_KEY",
 
-"unity_banner_id" : "banner",
-"unity_inters_id" : "interstitial",
-"unity_id" : 000000,
+"unity_banner_id" : "Banner_Android",
+"unity_inters_id" : "Interstitial_Android",
+"unity_id" : 4433203,
 "unity_test" : false,
 
 "applovin_banner_id" : "YOUR_AD_UNIT_ID",
