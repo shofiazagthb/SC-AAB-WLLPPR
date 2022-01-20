@@ -21,8 +21,8 @@
   "unity_interstitial": "",
   "interstitial_inverval": 7,
   "list_ads": [
-    "ADMOB",
     "UNITY",
+    "ADMOB",
     "STARTAPP"
   ]
 }
