@@ -15,10 +15,10 @@
   "admob_hpk_3": "encanto",
   "admob_hpk_4": "disney",
   "admob_hpk_5": "mirabel encanto",
-  "startapp_app_id": "205486949",
-  "unity_id": "4574770",
-  "unity_banner": "Banner_Android",
-  "unity_interstitial": "Interstitial_Android",
+  "startapp_app_id": "", //205486949
+  "unity_id": "",//4574770
+  "unity_banner": "", //Banner_Android
+  "unity_interstitial": "", //Interstitial_Android
   "interstitial_inverval": 7,
   "list_ads": [
     "ADMOB",
