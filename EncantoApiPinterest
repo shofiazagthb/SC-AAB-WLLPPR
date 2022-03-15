@@ -1,8 +1,8 @@
 {
   "username": "permadipinterstyulianto",
   "album": [
-    "FAN ART", "Encanto Doors", "Mirabel", "Mariano and Dolores", "Isabella", "Camilo", "Dolores", "Antonio", "Bruno", "Pepa", "Luiesa", "Sticker", "Character", "The Grandkids", "Familia", "POSTER ART"
-  ],
+    "Mirabel", "Isabella", "Dolores", "Camilo", "Antonio", "Bruno", "Pepa", "Luiesa", "Familia", "FAN ART"
+    ],
   "init_jumlah_photo": 100,
   "admob_banner_id": "ca-app-pub-9610807312861673/6316930136",
   "admob_interstitial_id": "ca-app-pub-9610807312861673/4620705081",
