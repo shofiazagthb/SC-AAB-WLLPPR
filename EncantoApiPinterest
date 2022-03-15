@@ -3,7 +3,7 @@
   "album": [
     "Mirabel", "Isabella", "Dolores", "Camilo", "Antonio", "Bruno", "Pepa", "Luiesa", "Familia", "FAN ART"
     ],
-  "init_jumlah_photo": 100,
+  "init_jumlah_photo": 150,
   "admob_banner_id": "ca-app-pub-9610807312861673/6316930136",
   "admob_interstitial_id": "ca-app-pub-9610807312861673/4620705081",
   "admob_native_id": "ca-app-pub-9610807312861673/9603253236",
