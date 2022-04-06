@@ -3,7 +3,7 @@
  
 "json_popup_wait" : "Loading Apps...",
   
-"mode_no_ads" : true,
+"mode_no_ads" : false,
 "mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
 
 // Mode Iklan
@@ -32,7 +32,7 @@
 
 "startapp" : "123456789",
 
-"admob_banner" : "ca-app-pub-9610807312861673/89675708656", 
+"admob_banner" : "ca-app-pub-9610807312861673/8967570865", 
 "admob_inter" : "ca-app-pub-9610807312861673/70700276545", 
 "admob_native" : "ca-app-pub-9610807312861673/76544891956",
 
