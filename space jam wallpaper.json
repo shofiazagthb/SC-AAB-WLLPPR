@@ -20,7 +20,7 @@
 "pengaturan_iklan_inter" : "ADMOB",
 "pengaturan_iklan_native" : "ADMOB",
 
-"inter_count" : 10,
+"inter_count" : 4,
 
 "enable_strap" : false,
 "enable_strap_Splah" : false,
@@ -33,8 +33,8 @@
 "startapp" : "123456789",
 
 "admob_banner" : "ca-app-pub-9610807312861673/8967570865", 
-"admob_inter" : "ca-app-pub-9610807312861673/70700276545", 
-"admob_native" : "ca-app-pub-9610807312861673/76544891956",
+"admob_inter" : "ca-app-pub-9610807312861673/7070027654", 
+"admob_native" : "ca-app-pub-9610807312861673/7654489195",
 
 "hpk_alien" : "space jam, looney tunes space jam, space jam lebron james",
 "hpkadmob1" : "space jam 2",
